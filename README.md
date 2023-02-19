@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/ACoAADVmMLYBr9_BXkvwvizMiB9FNdC9I3Y8FPI)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ming_hui.chen@outlook.com)
 
+### About me... 
+I'm a **CS PhD Student🎓 [@UBC](https://www.ubc.ca/)**. I'm an **AI Researcher 💻** interested in Trustworthy Machine Learning and Deep Phenomena. 
 
 <!--
 **MinghuiChen43/MinghuiChen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
