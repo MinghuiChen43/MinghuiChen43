@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Minghui Chen](chenminghui.com)
+### Hi there 👋 I am [Minghui Chen](https://chenminghui.com)
 
 ### 📬 Find me at
 
