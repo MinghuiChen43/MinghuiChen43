@@ -12,7 +12,7 @@
 
 
 ### About me... 
-I'm a **CS PhD Student🎓 [@UBC](https://www.ubc.ca/)**. 
+I'm a **CS PhD Student🎓**. 
 
 I'm an **AI Researcher 💻** 
 
