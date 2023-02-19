@@ -6,7 +6,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ming_hui.chen@outlook.com)
 
 ### About me... 
-I'm a **CS PhD Student🎓 [@UBC](https://www.ubc.ca/)**. I'm an **AI Researcher 💻** interested in Trustworthy Machine Learning and Deep Phenomena. 
+I'm a **CS PhD Student🎓 [@UBC](https://www.ubc.ca/)**. I'm an **AI Researcher 💻** interested in [Trustworthy Machine Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
 <!--
 **MinghuiChen43/MinghuiChen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
