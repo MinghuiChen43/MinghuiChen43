@@ -16,7 +16,7 @@ I'm a **CS PhD Student🎓**.
 
 I'm an **AI Researcher 💻** 
 
-interested in [Trustworthy Machine Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
+interested in [Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🧠 Deep Learning
