@@ -7,7 +7,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinghuiChen43)
 [![GoogleScholar](https://img.shields.io/badge/-GoogleScholar-c14438?style=flat&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=aDKyh4cAAAAJ&hl=zh-CN&authuser=2)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-Green?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/ACoAADVmMLYBr9_BXkvwvizMiB9FNdC9I3Y8FPI)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-Green?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minghui-chen-75a046210/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ming_hui.chen@outlook.com)
 
 
