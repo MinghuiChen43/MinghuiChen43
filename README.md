@@ -19,7 +19,7 @@
 
 
 ### About me... 
-I'm a **CS PhD student🎓**. .
+I'm a **CS PhD student🎓**
 
 I'm an **AI researcher 💻** 
 
