@@ -19,9 +19,8 @@
 
 
 ### About me... 
-I'm a **CS PhD student🎓**
-
-I'm an **AI researcher 💻** 
+I'm a **CS PhD student 💻 **
+<!-- I'm an **AI researcher 🎓 💻**  -->
 
 interested in [Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
