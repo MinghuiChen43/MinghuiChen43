@@ -19,12 +19,12 @@
 
 
 ### About me... 
-I'm a **CS PhD student 💻 **
+I'm a **CS PhD student 💻**
 <!-- I'm an **AI researcher 🎓 💻**  -->
 
 interested in [Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - 🧠 Deep Learning
+  - 🧠 Trustworthy Deep Learning
   <!-- - 🔗 Blockchain -->
   - ⚕️ AI for Healthcare
