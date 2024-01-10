@@ -27,4 +27,4 @@ interested in [Trustworthy Deep Learning](https://github.com/MinghuiChen43/aweso
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🧠 Trustworthy Deep Learning
   - ⚕️ AI for Healthcare
-  - 🔗 Blockchain
+  <!-- - 🔗 Blockchain -->
