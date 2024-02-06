@@ -25,6 +25,6 @@ I'm a **CS PhD student 💻**
 interested in [Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - 🧠 Trustworthy Deep Learning
-  - ⚕️ AI for Healthcare
-  <!-- - 🔗 Blockchain -->
+  - Trustworthy Deep Learning
+  - Federated Learning
+  - AI for Healthcare
