@@ -23,8 +23,9 @@
 
 I'm an **researcher 💻** 
 
-interested in [Reliable Data-Driven Modeling](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [D-Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
+interested in [Reliable AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - Data-Driven Modeling
-  - Constrained Optimization
+  - LLM Agent
+  - Reliable AI
+  - AI for Healthcare
