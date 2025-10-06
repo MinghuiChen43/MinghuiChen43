@@ -18,11 +18,11 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinghuiChen43)
 
 
-<!-- ### About me... 
+### About me... 
 
 I'm an **RA 💻** 
 
 interested in [Reliable AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) and [Deep Phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena). 
 
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - Sequential Decision-making -->
+  - Sequential Decision-making
