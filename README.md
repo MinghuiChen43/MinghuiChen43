@@ -19,7 +19,7 @@
 
 [![Personal Page](https://img.shields.io/badge/-Website-000?style=flat&logo=Google%20Chrome&logoColor=white)](https://chenminghui.com)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-000?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=aDKyh4cAAAAJ&hl=en)
-[![X](https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=white)](https://x.com/chenmh43)
+<!-- [![X](https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=white)](https://x.com/chenmh43) -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinghuiChen43)
 
 
