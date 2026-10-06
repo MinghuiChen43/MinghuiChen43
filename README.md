@@ -31,3 +31,4 @@ interested in [Reliable AI](https://github.com/MinghuiChen43/awesome-trustworthy
 
 I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - Sequential Decision-making
+  - AI for Healthcare
